@@ -1,2 +1,3 @@
-# New-_-one
+# Student New Project
+
 This is my first project
