@@ -1,3 +1,4 @@
 # Student New Project
 
-This is my first Git Repository. <be> Author - Vipin Saket
+This is my first Git Repository.
+Author - Vipin Saket
