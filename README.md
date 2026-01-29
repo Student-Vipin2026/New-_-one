@@ -1,4 +1,4 @@
-# Student New Project
+# New Student Project
 
 This is my first Git Repository.
 <br>
